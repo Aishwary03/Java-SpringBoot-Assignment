@@ -1,3 +1,5 @@
+The zip file is present inside assignment folder as assignment.zip
+
 The project is build with gradle.
 
 Go to the project root folder and execute the following commands
